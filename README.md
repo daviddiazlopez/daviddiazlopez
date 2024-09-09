@@ -26,8 +26,8 @@
 <div align="center">
 <a href="https://github.com/daviddiazlopez/ParqueGallaecia" target="_blank"><img src="https://github.com/daviddiazlopez/ParqueGallaecia/blob/main/src/gui/logo_azul.png?raw=true" width="400" alt="Parque Gallaecia"></a>
 <p>
-<img src="https://camo.githubusercontent.com/ee7a056865f5b1e64e7856dca527fc8b76a7147b6868420fe1de6955afab0ff8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666c6174266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465">
-<img src="https://camo.githubusercontent.com/308420d426d07eb2f957508595525cddb4b500861452c063f80acfaabf5c6d49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
+<img src="https://camo.githubusercontent.com/a73109b04734b0adb5596090c93c0240b5a916dac6667be2fe41177ce8cfe470/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666c6174266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465">
+<img src="https://camo.githubusercontent.com/0e07b77861d08adcf9f80d43f0ae2d4ff1bc47989639ebde4f6fa61cdd3c1af0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
 </p>
 <p>This project presents a <strong>Java application</strong> designed to work with a database for the management of an amusement park. <br><br>It was developed as part of the <strong>Databases II</strong> course assignment.</p>
 </div>
