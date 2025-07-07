@@ -39,8 +39,6 @@
 <a href="https://github.com/daviddiazlopez/Go-Lexical-Analyzer" target="_blank"><img src="https://raw.githubusercontent.com/daviddiazlopez/Go-Lexical-Analyzer/main/images/go_lexical_logo.png" width="400" alt="Go Lexical Analyzer"></a>
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/Makefile-000000?style=flat&logo=cmake&logoColor=white">
 </p>
 <p>This project implements a <strong>lexical analyzer in C</strong> for a subset of the Go programming language. <br><br>It was developed as part of the <strong>Compilers and Interpreters</strong> course assignment.</p>
 </div>
