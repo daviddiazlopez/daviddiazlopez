@@ -37,7 +37,7 @@
 <h3 align="center">Go Lexical Analyzer (C)</h3>
 <div align="center">
 <a href="https://github.com/daviddiazlopez/Go-Lexical-Analyzer" target="_blank">
-  <img src="images/lexical_analyzer.png" width="400" alt="Go Lexical Analyzer image">
+  <img src="https://github.com/daviddiazlopez/Go-Lexical-Analyzer/images/lexical_analyzer.png" width="400" alt="Go Lexical Analyzer image">
 </a>
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
