@@ -30,12 +30,21 @@
 <img src="https://camo.githubusercontent.com/0e07b77861d08adcf9f80d43f0ae2d4ff1bc47989639ebde4f6fa61cdd3c1af0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
 </p>
 <p>This project presents a <strong>Java application</strong> designed to work with a database for the management of an amusement park. <br><br>It was developed as part of the <strong>Databases II</strong> course assignment.</p>
-</div>
-                                                                                      
+</div>                                                                             
 </td>
-
+  
 <td width="50%">
-               <br>
+<h3 align="center">Go Lexical Analyzer (C)</h3>
+<div align="center">
+<a href="https://github.com/daviddiazlopez/Go-Lexical-Analyzer" target="_blank"><img src="https://raw.githubusercontent.com/daviddiazlopez/Go-Lexical-Analyzer/main/images/go_lexical_logo.png" width="400" alt="Go Lexical Analyzer"></a>
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Makefile-000000?style=flat&logo=cmake&logoColor=white">
+</p>
+<p>This project implements a <strong>lexical analyzer in C</strong> for a subset of the Go programming language. <br><br>It was developed as part of the <strong>Compilers and Interpreters</strong> course assignment.</p>
+</div>
+</td>
 
 <!--
 **daviddiazlopez/daviddiazlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
