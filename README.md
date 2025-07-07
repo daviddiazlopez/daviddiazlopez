@@ -36,13 +36,16 @@
 <td width="50%">
 <h3 align="center">Go Lexical Analyzer (C)</h3>
 <div align="center">
-<a href="https://github.com/daviddiazlopez/Go-Lexical-Analyzer" target="_blank"><img src="https://raw.githubusercontent.com/daviddiazlopez/Go-Lexical-Analyzer/main/images/go_lexical_logo.png" width="400" alt="Go Lexical Analyzer"></a>
+<a href="https://github.com/daviddiazlopez/Go-Lexical-Analyzer" target="_blank">
+  <img src="images/lexical_analyzer.png" width="400" alt="Go Lexical Analyzer image">
+</a>
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
 </p>
 <p>This project implements a <strong>lexical analyzer in C</strong> for a subset of the Go programming language. <br><br>It was developed as part of the <strong>Compilers and Interpreters</strong> course assignment.</p>
 </div>
 </td>
+
 
 <!--
 **daviddiazlopez/daviddiazlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
